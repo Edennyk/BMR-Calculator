@@ -7,7 +7,7 @@ JavaScript, HTML, CSS
 
 Descripton
 ===========
-This is a simple academic project that calculate Basal Metabolic Rate. 
+This is a simple academic project that metric and imperial BMI calculator tool.
 
 ScreenShots
 =
