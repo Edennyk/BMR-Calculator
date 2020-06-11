@@ -11,5 +11,6 @@ This is a simple academic project that metric and imperial BMI calculator tool.
 
 ScreenShots
 =
-<img src="https://user-images.githubusercontent.com/59883982/83173023-6b385e80-a0e6-11ea-9356-39e0c6b48445.jpg" width="400"></img><img src="https://user-images.githubusercontent.com/59883982/83173030-6c698b80-a0e6-11ea-8fa5-10fe155107c3.jpg" width="400"></img>
+<img src="https://user-images.githubusercontent.com/59883982/84432584-065b2900-abfb-11ea-8762-8adcb47289b4.png" width="400"></img>
+<img src="https://user-images.githubusercontent.com/59883982/84432592-078c5600-abfb-11ea-947c-9147a55d51b4.png" width="400"></img>
 
