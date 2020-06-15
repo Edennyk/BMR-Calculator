@@ -1,4 +1,4 @@
-## BMR-Calculator
+### BMR-Calculator
 Academic Project: BMR-Calculator
 
 # Skills
